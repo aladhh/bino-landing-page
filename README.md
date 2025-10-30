@@ -9,7 +9,7 @@ A simple landing page built using **HTML**, **CSS**, and **Bootstrap** to promot
 - Responsive and mobile-friendly design
 
 ## 🚀 Live Demo
-[View Deployed Site](https://yourusername.github.io/bino-landing-page/)
+[View Deployed Site](https://aladhh.github.io/bino-landing-page/)
 
 ## 💻 Built With
 - HTML5  
